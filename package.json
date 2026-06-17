@@ -1,5 +1,5 @@
 {
-    "name": "@valkyrja/ts-template",
+    "name": "@valkyrjaio/ts-template",
     "version": "26.0.0",
     "description": "A TypeScript package template for the Valkyrja Framework",
     "homepage": "https://www.valkyrja.io",
