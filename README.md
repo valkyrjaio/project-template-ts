@@ -18,7 +18,7 @@ applications built on the Valkyrja framework (use
     <a href="https://www.npmjs.com/package/@valkyrjaio/ts-template"><img src="https://img.shields.io/npm/v/@valkyrjaio/ts-template.svg" alt="Latest Version on npm"></a>
     <a href="https://www.npmjs.com/package/@valkyrjaio/ts-template"><img src="https://img.shields.io/node/v/@valkyrjaio/ts-template.svg" alt="Supported Node.js Version"></a>
     <a href="https://www.npmjs.com/package/@valkyrjaio/ts-template"><img src="https://img.shields.io/npm/l/@valkyrjaio/ts-template.svg" alt="License"></a>
-    <a href="https://github.com/valkyrjaio/project-template-ts/actions/workflows/ci.yml?query=branch%3Amaster"><img src="https://github.com/valkyrjaio/project-template-ts/actions/workflows/ci.yml/badge.svg?branch=master" alt="CI Status"></a>
+    <a href="https://github.com/valkyrjaio/project-template-ts/actions/workflows/ci.yml?query=branch%3A26.x"><img src="https://github.com/valkyrjaio/project-template-ts/actions/workflows/ci.yml/badge.svg?branch=26.x" alt="CI Status"></a>
 </p>
 
 ## Usage
