@@ -1,11 +1,11 @@
 {
-  "private"        : true,
-  "type"           : "module",
-  "scripts"        : {
-    "check" : "cd ../../.. && prettier --config .github/ci/prettier/prettier.config.js --no-error-on-unmatched-pattern --check \"src/**/*.ts\" \"tests/**/*.ts\" \"*.{json,md}\"",
-    "fix"   : "cd ../../.. && prettier --config .github/ci/prettier/prettier.config.js --no-error-on-unmatched-pattern --write \"src/**/*.ts\" \"tests/**/*.ts\" \"*.{json,md}\""
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "cd ../../.. && prettier --config .github/ci/prettier/prettier.config.js --no-error-on-unmatched-pattern --check \"src/**/*.ts\" \"tests/**/*.ts\" \"*.{json,md}\"",
+    "fix": "cd ../../.. && prettier --config .github/ci/prettier/prettier.config.js --no-error-on-unmatched-pattern --write \"src/**/*.ts\" \"tests/**/*.ts\" \"*.{json,md}\""
   },
   "devDependencies": {
-    "prettier": "^3.0.0"
+    "prettier": "^3.9.6"
   }
 }
