@@ -12,11 +12,12 @@ import { describe, expect, it } from 'vitest';
 import { TemplateInfo } from '../../../../../src/Template/Constant/TemplateInfo.ts';
 
 describe('TemplateInfo', () => {
+    // The release workflow rewrites both constants, so assert their shape and never an exact value.
     it('exposes the version', () => {
-        expect(TemplateInfo.VERSION).toBe('1.0.0');
+        expect(TemplateInfo.VERSION).toMatch(/^\d+\.\d+\.\d+$/);
     });
 
     it('exposes the version build date time', () => {
-        expect(TemplateInfo.VERSION_BUILD_DATE_TIME).toBe('January 1 2025 00:00:00 MST');
+        expect(TemplateInfo.VERSION_BUILD_DATE_TIME).toMatch(/^[A-Z][a-z]+ \d{1,2} \d{4} \d{2}:\d{2}:\d{2} MST$/);
     });
 });
