@@ -8,7 +8,7 @@
         "rootDir": ".",
         "types": ["node"],
         "paths": {
-            "vitest": ["./.github/ci/vitest/node_modules/vitest/dist/index.d.ts"]
+            "vitest": ["./.github/ci/typescript/node_modules/vitest/dist/index.d.ts"]
         }
     },
     "include": ["src/**/*", "tests/**/*"],
