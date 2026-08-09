@@ -1,6 +1,6 @@
 {
     "name": "@valkyrjaio/ts-template",
-    "version": "26.0.7",
+    "version": "26.0.8",
     "description": "A TypeScript package template for the Valkyrja Framework",
     "homepage": "https://www.valkyrja.io",
     "keywords": [
