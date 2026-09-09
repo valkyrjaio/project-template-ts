@@ -7,6 +7,6 @@
  */
 
 export class TemplateInfo {
-    static readonly VERSION = '26.0.31' as const;
-    static readonly VERSION_BUILD_DATE_TIME = 'September 8 2026 10:42:40 MST' as const;
+    static readonly VERSION = '26.0.32' as const;
+    static readonly VERSION_BUILD_DATE_TIME = 'September 9 2026 10:29:48 MST' as const;
 }
