@@ -1,6 +1,12 @@
 # Release Notes for 26.x
 
-## [Unreleased](https://github.com/valkyrjaio/project-template-ts/compare/v26.0.73...26.x)
+## [Unreleased](https://github.com/valkyrjaio/project-template-ts/compare/v26.0.74...26.x)
+
+## [v26.0.74](https://github.com/valkyrjaio/project-template-ts/compare/v26.0.73...v26.0.74) - 2026-10-28
+
+* [Workflow] ci: Update .github workflow refs to v26.26.5 by [@valkyrja-volundr](https://github.com/valkyrja-volundr)[bot] in https://github.com/valkyrjaio/project-template-ts/pull/259
+* [Dependency] build: Update npm dependencies by [@valkyrja-volundr](https://github.com/valkyrja-volundr)[bot] in https://github.com/valkyrjaio/project-template-ts/pull/258
+* [Dependency] build: Update npm dependencies by [@valkyrja-volundr](https://github.com/valkyrja-volundr)[bot] in https://github.com/valkyrjaio/project-template-ts/pull/260
 
 ## [v26.0.73](https://github.com/valkyrjaio/project-template-ts/compare/v26.0.72...v26.0.73) - 2026-10-27
 
